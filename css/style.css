@@ -1,0 +1,39 @@
+html,
+body{
+  background: #00C853;
+}
+#displayBreak{
+  margin-left: 320px;
+}
+#displayLength{
+  margin-right:  320px;
+}
+#displayBreak, #displayLength{
+  margin-top: 50px;
+  padding: 30px 0;
+  background: #FFFFFF;
+  height: 170px;
+  border-radius: 15px;
+}
+#displayBreak a, #displayLength a{
+  color: #FFFFFF;
+  margin: 0 4px;
+}
+.btn{
+  background-color: #0e0e0d;
+  color: #c8c1c1;
+}
+h4{
+  display: inline;
+  font-size: 34px;
+}
+#displayTimer{
+  margin: 50px 320px;
+  background: #FFFFFF;
+  height: 200px;
+  border-radius: 15px;
+  padding: 30px 0;
+}
+h3{
+  font-size: 60px;
+}
